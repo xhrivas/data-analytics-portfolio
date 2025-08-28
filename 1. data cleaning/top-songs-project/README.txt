@@ -1,1 +1,0 @@
-For each top song, I manually found the duration of the specific version that was popular at the time it ranked as a top song.
