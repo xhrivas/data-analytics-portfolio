@@ -4,9 +4,6 @@ Packer, Craig, et al. "Fear of darkness, the full moon and the nocturnal ecology
 
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0022285
 
-Lion attacks: Figure 3
-Lion belly size: Figure 1, rescaled to between 0 and 1, average of male and female.
-
 Moon phase data:
 Daily Moon Guide, NASA.
 https://moon.nasa.gov/moon-observation/daily-moon-guide/
