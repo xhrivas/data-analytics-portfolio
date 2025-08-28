@@ -64,12 +64,38 @@ Projects focused on building predictive/statistical models and evaluating their 
   - Found a significant decline in tusk size relative to body size post-poaching, suggesting evolutionary pressures.  
   - *Skills:* Pandas, Matplotlib, Linear Regression (Scikit-learn), model evaluation (R²), comparative modeling, data storytelling through science.   
 
+- **Lion Attacks Project**
+  - Dataset: Lion attacks & belly sizes vs evening moonlight.  
+  - Built custom Python linear models to explore how moonlight affects lion behavior.
+  - Modeled both number of attacks and belly size, visualized relationships with scatter plots, and evaluated model performance using R².  
+  - *Skills:* Pandas, Matplotlib, Linear Regression, Custom Python Classes
+ 
+- **E-Bike Stopping Distances Project**  
+  - Dataset: *`ebike-stopping-distances.csv`, with supplemental low- and high-speed data.*  
+  - Modeled the relationship between e-bike **speeds** and **stopping distances**.  
+  - Started with a linear regression model, then fit a quadratic model to capture the curved relationship suggested by physics.  
+  - Visualized predictions and validated the quadratic model against high-speed data for accuracy.  
+  - *Skills:* Pandas, Matplotlib, Linear Regression, Polynomial Regression, Model Evaluation (R²), Data Visualization.
+
+
 ---
 
 ### 📝 Data Storytelling   
-Projects highlighting **business insights** and **narratives**:  
-- From raw data → visualization → actionable recommendation.  
-- Presenting insights in clear, non-technical language.  
+Projects highlighting **business insights** and **narratives**
+
+- **Plotting Animal Words Project**  
+  - Dataset: *`animal-word-trends.csv` – tracks historical usage frequency of animal words in printed materials from 1700 to 2019.*  
+  - Built reusable plotting functions to visualize word usage trends over time for different animals.  
+  - Explored historical events (e.g., invention of the automobile, completion of the transcontinental railway) to form hypotheses about changes in word usage.  
+  - Investigated explanatory mechanisms for observed patterns, such as increased popularity of lobster following railway expansion.  
+  - *Skills:* Pandas, Matplotlib, Data Storytelling, Exploratory Analysis, Hypothesis Formation, Historical Data Interpretation.
+
+- **Any Animal Except… Project**  
+  - Dataset: *`animal-word-trends-menageries.csv` – tracks historical usage frequency of exotic animal words in British menageries from 1750 to 1835.*  
+  - Investigated how public exhibitions in menageries influenced word usage trends for exotic animals.  
+  - Compared trends for animals that were successfully exhibited (e.g., tiger, hyena, tapir) versus difficult-to-keep animals (e.g., hummingbird, chimpanzee, meerkat, penguin).  
+  - Tested hypotheses on cultural exposure and accessibility, and extended analysis to Australian animals like kangaroo, wombat, and koala.  
+  - *Skills:* Pandas, Matplotlib, Data Storytelling, Hypothesis Testing, Historical Data Interpretation, Exploratory Analysis.
 
 ---
 
