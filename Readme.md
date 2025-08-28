@@ -30,7 +30,7 @@ Projects focused on transforming messy, raw data into structured, analysis-ready
 - **Top Songs Project**  
   - Cleaned Spotify/Top Song duration data.  
   - Standardized features and formatted dataset for time-series/EDA.  
-  - *Skills:* Pandas transformations, CSV/TSV handling.  
+  - *Skills:* Pandas transformations, CSV handling.  
 
 ---
 
