@@ -1,6 +1,4 @@
-Data Sources:
-
-Data comes from the Great American Taste Test by James Hoffmann.
+Data Sources: Data comes from the Great American Taste Test by James Hoffmann.
 
 The data is found at:
 https://jameshoffmann.co.uk/s/GACTT_RESULTS_ANONYMIZED_v2.csv
