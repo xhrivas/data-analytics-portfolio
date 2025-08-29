@@ -37,11 +37,6 @@ Projects focused on transforming messy, raw data into structured, analysis-ready
 ### 📈 Data Visualization  
 Projects focused on turning data into clear, impactful visuals.  
 
-- **Deepest Diving Animals Project**  
-  - Visualized the maximum dive depths of various marine animals.  
-  - Created comparative bar charts and annotated insights.  
-  - *Skills:* Matplotlib, Seaborn, chart customization.
-
 - **How Couples Met Project**  
   - Explored survey data from the *How Couples Meet and Stay Together 2017* study.  
   - Visualized how dating trends have shifted over time (e.g., rise of online dating).  
