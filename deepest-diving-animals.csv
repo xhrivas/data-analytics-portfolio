@@ -1,0 +1,119 @@
+animal,category,depth
+Emperor Penguin,penguins,564
+King Penguin,penguins,343
+Rockhopper Penguin,penguins,104
+Macaroni Penguin,penguins,154
+Royal Penguin,penguins,226
+Little Penguin,penguins,27
+Yellow-Eyed Penguin,penguins,41
+Adelie Penguin,penguins,180
+Chinstrap Penguin,penguins,179
+Gentoo Penguin,penguins,225
+African Penguin,penguins,93
+Humboldt Penguin,penguins,62
+Magellanic Penguin,penguins,112
+Galapagos Penguin,penguins,32
+Razorbill,other seabirds,56
+Little Auk,other seabirds,27
+Cory's Shearwater,other seabirds,10
+Streaked Shearwater,other seabirds,6
+Black Guillemot,other seabirds,43
+Rhinoceros Auklet,other seabirds,57
+Atlantic Puffin,other seabirds,48
+Northern Fulmar,other seabirds,3
+Northern Gannet,other seabirds,26
+Cape Gannet,other seabirds,10
+Australasian Gannet,other seabirds,23
+Abbotts Booby,other seabirds,10
+South-Georgian Diving Petrel,other seabirds,18
+Common Diving Petrel,other seabirds,10
+Red-Tailed Tropicbird,other seabirds,2
+European Shag,other seabirds,35
+Imperial Cormorant,other seabirds,50
+Imperial Shag,other seabirds,122
+Guanay Cormorant,other seabirds,32
+Cape Cormorant,other seabirds,34
+Japanese Cormorant,other seabirds,20
+Great Cormorant,other seabirds,33
+South-Georgian Shag,other seabirds,101
+Flightless Cormorant,other seabirds,73
+Crozet Shag,other seabirds,145
+Heard Shag,other seabirds,60
+Pelagic Cormorant,other seabirds,42
+Macquarie Shag,other seabirds,109
+Kerguelen Shag,other seabirds,109
+White-Chinned Petrel,other seabirds,16
+Cassin's Auklet,other seabirds,28
+Flesh-Footed Shearwater,other seabirds,67
+Great Shearwater,other seabirds,19
+Sooty Shearwater,other seabirds,70
+Balearic Shearwater,other seabirds,26
+Common Eider,other seabirds,9
+Masked Booby,other seabirds,6
+Nazca Booby,other seabirds,5
+Blue-Footed Booby,other seabirds,22
+Red-Footed Booby,other seabirds,2
+Peruvian Booby,other seabirds,10
+Ancient Murrelet,other seabirds,37
+Shy Albatross,other seabirds,7
+Common Guillemot,other seabirds,152
+Brunnich's Guillemots,other seabirds,140
+South American Fur Seal,seals,170
+New Zealand Fur Seal,seals,274
+Galapagos Fur Seal,seals,169
+Antarctic Fur Seal,seals,181
+Juan Fernandez Fur Seal,seals,94
+Australian Fur Seal,seals,284
+Guadalupe Fur Seal,seals,130
+Sub-Antarctic Fur Seal,seals,208
+Northern Fur Seal,seals,256
+Hooded Seal,seals,1016
+Bearded Seal,seals,288
+Grey Seal,seals,455
+Leopard Seal,seals,304
+Weddell Seal,seals,904
+Crabeater Seal,seals,716
+Northern Elephant Seal,seals,1735
+Southern Elephant Seal,seals,2389
+Mediterranean Monk Seal,seals,123
+Ross Seal,seals,792
+Harp Seal,seals,568
+Ringed Seal,seals,222
+Baikal Seal,seals,324
+Harbour Seal,seals,481
+Steller Sea Lion,seals,424
+Australian Sea Lion,sea lions,103
+New Zealand Sea Lion,sea lions,597
+California Sea Lion,sea lions,482
+Galapagos Sea Lion,sea lions,387
+Southern Sea Lion,sea lions,175
+Loggerhead Turtle,turtles,300
+Green Turtle,turtles,135
+Leatherback Turtle,turtles,1344
+Olive Ridley Turtle,turtles,288
+Baird's Beaked Whale,toothed whales,1777
+Beluga Whale,toothed whales,1160
+Short-Finned Pilot Whale,toothed whales,1019
+Long-Finned Pilot Whale,toothed whales,828
+Northern Bottlenose Whale,toothed whales,2339
+Blainville's Beaked Whale,toothed whales,1599
+Narwhal,toothed whales,1773
+Finless Porpoises,toothed whales,20
+Killer Whale,toothed whales,1087
+Harbor Porpoise,toothed whales,226
+Sperm Whale,toothed whales,2250
+False Killer Whale,toothed whales,928
+Pantropical Spotted Dolphin,toothed whales,213
+Cuvier's Beaked Whale,toothed whales,2992
+Bowhead Whale,baleen whales,487
+Antarctic Minke Whale,baleen whales,105
+Bryde's Whale,baleen whales,292
+Blue Whale,baleen whales,315
+Fin Whale,baleen whales,528
+North Atlantic Right Whale,baleen whales,174
+Humpback Whale,baleen whales,616
+Northern Sea Otter,sea otters,97
+Southern Sea Otter,sea otters,88
+Atlantic Walrus,walruses,500
+Dugong,other marine mammals,33
+Florida Manatee,other marine mammals,16
